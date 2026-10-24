@@ -1,0 +1,10 @@
+{
+  "_note": "示例拼单。真实场景里这份数据由用户一句话说完，Skill 负责解析成这个结构。",
+  "budgetPerPerson": 25.0,
+  "people": [
+    { "name": "阿伟",  "items": [{ "id": "bigmac", "qty": 1 }, { "id": "coke-m", "qty": 1 }] },
+    { "name": "小周",  "items": [{ "id": "spicy-chicken", "qty": 1 }, { "id": "fries-m", "qty": 1 }, { "id": "coke-zero-m", "qty": 1 }] },
+    { "name": "Lily",  "items": [{ "id": "grilled", "qty": 1 }, { "id": "sundae", "qty": 1 }] },
+    { "name": "老陈",  "items": [{ "id": "double-cheese", "qty": 1 }, { "id": "nuggets-5", "qty": 1 }, { "id": "coke-m", "qty": 1 }] }
+  ]
+}

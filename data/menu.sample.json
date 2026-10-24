@@ -1,0 +1,21 @@
+{
+  "_note": "示例菜单。价格为公开渠道整理的近似值，仅用于离线演示；真实数据必须来自 mcd-mcp 返回。",
+  "store": { "code": "SH001", "name": "人民广场店", "city": "上海" },
+  "currency": "CNY",
+  "items": [
+    { "id": "bigmac",        "name": "巨无霸",         "price": 25.0, "tags": ["burger"],  "calories": 550 },
+    { "id": "spicy-chicken", "name": "麦辣鸡腿堡",     "price": 19.5, "tags": ["chicken"], "calories": 520 },
+    { "id": "grilled",       "name": "板烧鸡腿堡",     "price": 20.5, "tags": ["chicken"], "calories": 470 },
+    { "id": "mcchicken",     "name": "麦香鸡",         "price": 13.0, "tags": ["chicken"], "calories": 430 },
+    { "id": "double-cheese", "name": "双层吉士汉堡",   "price": 15.0, "tags": ["burger"],  "calories": 460 },
+    { "id": "fries-m",       "name": "中薯条",         "price": 12.5, "tags": ["side"],    "calories": 340 },
+    { "id": "fries-l",       "name": "大薯条",         "price": 15.0, "tags": ["side"],    "calories": 470 },
+    { "id": "nuggets-5",     "name": "麦乐鸡（5块）",   "price": 13.5, "tags": ["side"],    "calories": 230 },
+    { "id": "coke-m",        "name": "可口可乐（中）",  "price": 10.5, "tags": ["drink"],   "calories": 190 },
+    { "id": "coke-zero-m",   "name": "零度可乐（中）",  "price": 10.5, "tags": ["drink"],   "calories": 0 },
+    { "id": "mcflurry",      "name": "麦旋风",         "price": 12.0, "tags": ["dessert"], "calories": 320 },
+    { "id": "sundae",        "name": "圣代",           "price": 9.0,  "tags": ["dessert"], "calories": 200 },
+    { "id": "pie",           "name": "苹果派",         "price": 8.0,  "tags": ["dessert"], "calories": 240 },
+    { "id": "latte-m",       "name": "拿铁（中）",     "price": 15.0, "tags": ["drink"],   "calories": 150 }
+  ]
+}

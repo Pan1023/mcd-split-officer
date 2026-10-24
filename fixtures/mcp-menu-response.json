@@ -1,0 +1,24 @@
+{
+  "_note": "录制的 mcd-mcp 菜单响应（结构参考官方工具，字段已做脱敏）。demo 用它跑离线演示，不需要 Token。",
+  "tool": "menu.query",
+  "request": { "storeCode": "SH001" },
+  "result": {
+    "store": { "storeCode": "SH001", "storeName": "人民广场店" },
+    "items": [
+      { "itemCode": "bigmac",        "itemName": "巨无霸",        "price": 25.0, "category": "汉堡",  "energyKcal": 550 },
+      { "itemCode": "spicy-chicken", "itemName": "麦辣鸡腿堡",    "price": 19.5, "category": "汉堡",  "energyKcal": 520 },
+      { "itemCode": "grilled",       "itemName": "板烧鸡腿堡",    "price": 20.5, "category": "汉堡",  "energyKcal": 470 },
+      { "itemCode": "mcchicken",     "itemName": "麦香鸡",        "price": 13.0, "category": "汉堡",  "energyKcal": 430 },
+      { "itemCode": "double-cheese", "itemName": "双层吉士汉堡",  "price": 15.0, "category": "汉堡",  "energyKcal": 460 },
+      { "itemCode": "fries-m",       "itemName": "中薯条",        "price": 12.5, "category": "小食",  "energyKcal": 340 },
+      { "itemCode": "fries-l",       "itemName": "大薯条",        "price": 15.0, "category": "小食",  "energyKcal": 470 },
+      { "itemCode": "nuggets-5",     "itemName": "麦乐鸡（5块）",  "price": 13.5, "category": "小食",  "energyKcal": 230 },
+      { "itemCode": "coke-m",        "itemName": "可口可乐（中）", "price": 10.5, "category": "饮料",  "energyKcal": 190 },
+      { "itemCode": "coke-zero-m",   "itemName": "零度可乐（中）", "price": 10.5, "category": "饮料",  "energyKcal": 0 },
+      { "itemCode": "mcflurry",      "itemName": "麦旋风",        "price": 12.0, "category": "甜品",  "energyKcal": 320 },
+      { "itemCode": "sundae",        "itemName": "圣代",          "price": 9.0,  "category": "甜品",  "energyKcal": 200 },
+      { "itemCode": "pie",           "itemName": "苹果派",        "price": 8.0,  "category": "甜品",  "energyKcal": 240 },
+      { "itemCode": "latte-m",       "itemName": "拿铁（中）",    "price": 15.0, "category": "饮料",  "energyKcal": 150 }
+    ]
+  }
+}

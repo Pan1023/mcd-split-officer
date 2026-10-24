@@ -1,0 +1,10 @@
+{
+  "_note": "示例优惠。maxUses 表示该券最多能用几次：满减/单品券默认 1 次（一人一张），组合价可反复点。",
+  "coupons": [
+    { "id": "full40-8",   "type": "threshold", "threshold": 40.0, "discount": 8.0,  "maxUses": 1, "note": "满40减8" },
+    { "id": "full60-15",  "type": "threshold", "threshold": 60.0, "discount": 15.0, "maxUses": 1, "note": "满60减15" },
+    { "id": "one-plus-one", "type": "bundle",  "price": 13.9, "pick": 2,
+      "eligibleTags": ["side", "drink", "dessert"], "maxUses": 99, "note": "1+1随心配 13.9" },
+    { "id": "bigmac-19",  "type": "item", "itemId": "bigmac", "price": 19.0, "maxUses": 1, "note": "巨无霸单品券 19" }
+  ]
+}

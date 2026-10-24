@@ -1,0 +1,20 @@
+{
+  "name": "mcd-split-officer",
+  "version": "0.1.0",
+  "description": "麦麦拆单官：多人拼单时，把订单拆成最省钱的几张单，并公平分摊到每个人",
+  "bin": { "mcd-split": "bin/split.js" },
+  "scripts": {
+    "demo": "node bin/demo.js",
+    "test": "node bin/selftest.js"
+  },
+  "keywords": ["mcp", "skill", "mcdonalds", "split-order", "optimization"],
+  "author": "Pan1023",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pan1023/mcd-split-officer.git"
+  },
+  "homepage": "https://github.com/Pan1023/mcd-split-officer#readme",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "dependencies": {}
+}

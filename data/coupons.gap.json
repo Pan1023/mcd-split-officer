@@ -1,0 +1,6 @@
+{
+  "_note": "场景二的券：只有一张满60减15，用来演示「差一点到门槛」的加购建议。",
+  "coupons": [
+    { "id": "full60-15", "type": "threshold", "threshold": 60.0, "discount": 15.0, "maxUses": 1, "note": "满60减15" }
+  ]
+}

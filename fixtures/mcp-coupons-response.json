@@ -1,0 +1,13 @@
+{
+  "_note": "录制的 mcd-mcp 券列表响应。demo 用它在无 Token 环境下完整跑通链路。",
+  "tool": "coupon.list",
+  "request": { "storeCode": "SH001" },
+  "result": {
+    "coupons": [
+      { "couponId": "full40-8",    "couponName": "满40减8",         "couponType": "满减",   "threshold": 40.0, "discount": 8.0,  "useLimit": 1 },
+      { "couponId": "full60-15",   "couponName": "满60减15",        "couponType": "满减",   "threshold": 60.0, "discount": 15.0, "useLimit": 1 },
+      { "couponId": "one-plus-one","couponName": "1+1随心配 13.9",  "couponType": "随心配", "packagePrice": 13.9, "pickCount": 2, "eligibleTags": ["side", "drink", "dessert"] },
+      { "couponId": "bigmac-19",   "couponName": "巨无霸单品券 19",  "couponType": "单品券", "itemId": "bigmac", "couponPrice": 19.0, "useLimit": 1 }
+    ]
+  }
+}

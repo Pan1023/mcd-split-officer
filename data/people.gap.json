@@ -1,0 +1,9 @@
+{
+  "_note": "场景二：三个人、总价 55.5，离「满60减15」只差 4.5 元。用来演示加购建议。",
+  "budgetPerPerson": 20.0,
+  "people": [
+    { "name": "阿伟", "items": [{ "id": "mcchicken", "qty": 1 }, { "id": "coke-m", "qty": 1 }] },
+    { "name": "小周", "items": [{ "id": "spicy-chicken", "qty": 1 }] },
+    { "name": "Lily", "items": [{ "id": "fries-m", "qty": 1 }] }
+  ]
+}

@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+
+# 本地真实数据，不入库
+private/
+out/*.json
