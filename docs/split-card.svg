@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 620" width="720" height="620" role="img" aria-label="拼单战绩表：原价 146.50 元，拆单后 105.80 元，省 40.70 元，共 4 单">
+  <rect x="0" y="0" width="720" height="620" rx="18" fill="#14161B"/>
+  <rect x="0.75" y="0.75" width="718.5" height="618.5" rx="18" fill="none" stroke="#2A2E38" stroke-width="1.5"/>
+
+  <!-- header -->
+  <rect x="28" y="30" width="9" height="9" rx="2" fill="#FFC72C"/>
+  <text x="45" y="39" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="600" fill="#F2F4F8">拼单战绩表</text>
+  <text x="128" y="39" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#7C8496">· 麦麦拆单官</text>
+  <text x="692" y="38" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#7C8496">4 人 · 人民广场店 · 10 件商品</text>
+
+  <!-- hero -->
+  <rect x="28" y="58" width="664" height="88" rx="12" fill="#1A1D24"/>
+  <rect x="28" y="58" width="5" height="88" rx="2.5" fill="#FFC72C"/>
+  <text x="52" y="86" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#8B93A5">这一单总共省下</text>
+  <text x="50" y="129" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="36" font-weight="700" fill="#FFC72C">¥40.70</text>
+  <text x="692" y="98" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#C9D0DC">原价 ¥146.50  &#8594;  拆单后 ¥105.80</text>
+  <text x="692" y="120" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#8B93A5">省 27.8% · 共 4 单</text>
+
+  <!-- section: plan -->
+  <text x="28" y="176" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" letter-spacing="1.5" fill="#7C8496">拆单方案</text>
+
+  <!-- group 1 -->
+  <rect x="28" y="190" width="664" height="58" rx="10" fill="none" stroke="#2A2E38" stroke-width="1.2"/>
+  <text x="44" y="213" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#FFC72C">单 1 · 满60减15</text>
+  <text x="44" y="232" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#7C8496">巨无霸 · 零度可乐（中） · 双层吉士汉堡 · 可口可乐（中）</text>
+  <text x="676" y="214" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#F2F4F8">¥61.00 &#8594; ¥46.00</text>
+  <text x="676" y="232" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#8B93A5">省 ¥15.00</text>
+
+  <!-- group 2 -->
+  <rect x="28" y="258" width="664" height="58" rx="10" fill="none" stroke="#2A2E38" stroke-width="1.2"/>
+  <text x="44" y="281" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#FFC72C">单 2 · 1+1 随心配 13.9</text>
+  <text x="44" y="300" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#7C8496">可口可乐（中） · 麦乐鸡（5 块）</text>
+  <text x="676" y="282" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#F2F4F8">¥24.00 &#8594; ¥13.90</text>
+  <text x="676" y="300" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#8B93A5">省 ¥10.10</text>
+
+  <!-- group 3 -->
+  <rect x="28" y="326" width="664" height="58" rx="10" fill="none" stroke="#2A2E38" stroke-width="1.2"/>
+  <text x="44" y="349" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#FFC72C">单 3 · 满40减8</text>
+  <text x="44" y="368" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#7C8496">麦辣鸡腿堡 · 板烧鸡腿堡</text>
+  <text x="676" y="350" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#F2F4F8">¥40.00 &#8594; ¥32.00</text>
+  <text x="676" y="368" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#8B93A5">省 ¥8.00</text>
+
+  <!-- group 4 -->
+  <rect x="28" y="394" width="664" height="58" rx="10" fill="none" stroke="#2A2E38" stroke-width="1.2"/>
+  <text x="44" y="417" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12.5" fill="#FFC72C">单 4 · 1+1 随心配 13.9</text>
+  <text x="44" y="436" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#7C8496">中薯条 · 圣代</text>
+  <text x="676" y="418" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#F2F4F8">¥21.50 &#8594; ¥13.90</text>
+  <text x="676" y="436" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" fill="#8B93A5">省 ¥7.60</text>
+
+  <!-- section: per person -->
+  <text x="28" y="480" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="11" letter-spacing="1.5" fill="#7C8496">每人应付</text>
+  <text x="84" y="480" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#5B6272">优惠按各自点单金额占比分摊，不是人头 AA</text>
+
+  <!-- chips -->
+  <rect x="28" y="492" width="157" height="82" rx="10" fill="#1A1D24" stroke="#2A2E38" stroke-width="1.2"/>
+  <text x="42" y="514" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#F2F4F8">阿伟</text>
+  <text x="42" y="542" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FFC72C">¥24.93</text>
+  <text x="42" y="562" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#6E7686">原 ¥35.50</text>
+
+  <rect x="197" y="492" width="157" height="82" rx="10" fill="#1A1D24" stroke="#2A2E38" stroke-width="1.2"/>
+  <text x="211" y="514" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#F2F4F8">小周</text>
+  <text x="211" y="542" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FFC72C">¥31.60</text>
+  <text x="211" y="562" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#6E7686">原 ¥42.50</text>
+
+  <rect x="366" y="492" width="157" height="82" rx="10" fill="#1A1D24" stroke="#2A2E38" stroke-width="1.2"/>
+  <text x="380" y="514" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#F2F4F8">Lily</text>
+  <text x="380" y="542" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FFC72C">¥22.22</text>
+  <text x="380" y="562" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#6E7686">原 ¥29.50</text>
+
+  <rect x="535" y="492" width="157" height="82" rx="10" fill="#1A1D24" stroke="#2A2E38" stroke-width="1.2"/>
+  <text x="549" y="514" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12" fill="#F2F4F8">老陈</text>
+  <text x="549" y="542" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FFC72C">¥27.05</text>
+  <text x="549" y="562" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#6E7686">原 ¥39.00</text>
+
+  <!-- footer -->
+  <text x="28" y="601" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#5B6272">钱由代码算，不由模型算 · 一张券只用一次 · 12 件以内毫秒级出全局最优</text>
+  <text x="692" y="601" text-anchor="end" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#5B6272">mcd-split-officer</text>
+</svg>
