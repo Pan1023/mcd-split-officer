@@ -10,6 +10,12 @@
 
 **组局管凑人，拆单管凑钱。** 这是后者。
 
+## 谁需要它
+
+- 3 人以上一起点麦当劳，又不想当那个"算账的人"
+- 办公室、宿舍、家庭拼单群里，每次都有人问"我该转多少"
+- 手里有券却不会搭配：1+1 随心配和满减到底该怎么组合才最省
+
 ---
 
 ## 30 秒跑起来
@@ -160,6 +166,8 @@ src/report.js         ← 文本报告 / 战绩表 HTML
 ```
 SKILL.md                 Skill 定义：什么时候用、怎么用、铁律
 MCP_INTEGRATION.md       MCP 接入说明（参赛要求材料）
+CONTEST_DECLARATION.md   参赛声明（官方指定文件，内容不可改动）
+workbuddy.md            WorkBuddy 开发对话记录
 src/optimizer.js         拆单核心：精确 DP + 公平分摊 + 加购探测
 src/normalize.js         MCP 响应 → 统一结构的适配层
 src/report.js            文本报告 + 战绩表 HTML 渲染
